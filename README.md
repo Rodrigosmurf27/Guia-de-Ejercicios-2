@@ -1,9 +1,9 @@
 Guía de Ejercicios 2 de Programacion Orientada a Objetos Teoria.
 
-Se utilizó Apache Tomcat 10.1.40.
-Se utilizó estructuras de Try Catch.
-Se realizaron las validaciones en cada Servlet.
-Se utilizó WampServer para conectar la base de datos.
+-Se utilizó Apache Tomcat 10.1.40.
+-Se utilizó estructuras de Try Catch.
+-Se realizaron las validaciones en cada Servlet.
+-Se utilizó WampServer para conectar la base de datos.
 
 Indicación general:
 
