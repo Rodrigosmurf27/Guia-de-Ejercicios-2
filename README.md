@@ -1,8 +1,11 @@
 Guía de Ejercicios 2 de Programacion Orientada a Objetos Teoria.
 
 -Se utilizó Apache Tomcat 10.1.40.
+
 -Se utilizó estructuras de Try Catch.
+
 -Se realizaron las validaciones en cada Servlet.
+
 -Se utilizó WampServer para conectar la base de datos.
 
 Indicación general:
@@ -35,12 +38,12 @@ Indicación general:
 Se creó un Servlet, que recibe por medio de POST los datos siguientes de un estudiante, e imprima los
 resultados en una tabla. También deberá realizar las validaciones requeridas según el tipo de dato, sino
 se cumplen mostrar mensaje por el tipo de dato no válido.
-• Carnet (debe tener el formato dos letras y cuatro números)
-• Nombres (longitud máxima de 25)
-• Apellidos (longitud máxima de 25)
-• Dirección (longitud máxima de 255)
-• Teléfono (debe tener el formato 0000-0000 y ningún otro)
-• E-mail (debe ser un email valido)
+• Carnet (debe tener el formato dos letras y cuatro números),
+• Nombres (longitud máxima de 25),
+• Apellidos (longitud máxima de 25),
+• Dirección (longitud máxima de 255),
+• Teléfono (debe tener el formato 0000-0000 y ningún otro),
+• E-mail (debe ser un email valido),
 • Fecha Nacimiento (debe tener el formato DD/MM/YYYY)
 
 
