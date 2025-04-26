@@ -1,8 +1,9 @@
 Guía de Ejercicios 2 de Programacion Orientada a Objetos Teoria.
 
-Se utilizó Apache Tomcat 10.1.40
-Se utilizó estructuras de Try Catch
-Se realizaron las validaciones en cada Servlet
+Se utilizó Apache Tomcat 10.1.40.
+Se utilizó estructuras de Try Catch.
+Se realizaron las validaciones en cada Servlet.
+Se utilizó WampServer para conectar la base de datos.
 
 Indicación general:
 
@@ -15,11 +16,11 @@ Indicación general:
 
 ## Tabla de Contenidos
 
-  - [Eejrcicio 1](#Ejercicio-1)
-  - [Eejrcicio 2](#Ejercicio-2)
-  - [Eejrcicio 3](#Ejercicio-3)
-  - [Eejrcicio 4](#Ejercicio-4)
-  - [Eejrcicio 5](#Ejercicio-5)
+  - [Ejercicio 1](#Ejercicio-1)
+  - [Ejercicio 2](#Ejercicio-2)
+  - [Ejercicio 3](#Ejercicio-3)
+  - [Ejercicio 4](#Ejercicio-4)
+  - [Ejercicio 5](#Ejercicio-5)
   - [SQL Query](#Enlace-del-query)
   - [Enlace del video](#Enlace-del-video)
   - [Estudiantes](#Estudiantes)
@@ -114,12 +115,12 @@ La empresa Car Clean ofrece diferentes servicios de lavado de automotores, requi
 sus clientes y el precio final a cancelar. Tome en cuenta si el cliente tiene tarjeta VIP se le realiza un
 descuento del 15% sobre el precio a pagar. A continuación se le muestra la tarifa por tipo de automotor:
 
-# Automotor Precio
-1 Motocicleta $2.75
-2 Sedan $3.50
-3 Camioneta $4.00
-4 Microbús $5.00
-5 Autobús $7.00
+Automotor Precio
+- Motocicleta $2.75
+- Sedan $3.50
+- Camioneta $4.00
+- Microbús $5.00
+- Autobús $7.00
 
  ## Enlace del query
 
