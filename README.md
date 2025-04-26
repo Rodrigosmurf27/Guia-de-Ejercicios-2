@@ -1,5 +1,7 @@
 Guía de Ejercicios 2 de Programacion Orientada a Objetos Teoria.
 
+-Descargar el proyecto completo de la Main.
+
 -Se utilizó Apache Tomcat 10.1.40.
 
 -Se utilizó estructuras de Try Catch.
